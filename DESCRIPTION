@@ -2,10 +2,10 @@ Package: foofactors
 Title: Makes Factors Less Stupid
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "Jamie",
-           family = "Cheke",
+    person(given = "Jam",
+           family = "Code",
            role = c("aut", "cre"),
-           email = "jamie.cheke@gmail.com",
+           email = "jam.code@gmail.com",
            comment = c(ORCID = "YOUR-ORCID-ID"))
 Description: Factors are irritating but they can be useful.
 License: MIT + file LICENSE
